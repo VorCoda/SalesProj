@@ -27,7 +27,8 @@
 ![image](https://github.com/user-attachments/assets/9bca5b52-3894-4431-a021-478a27bf1b01)
 
 Запрос к зад.3
-![image](https://github.com/user-attachments/assets/9fc56de5-1cad-458e-9bd5-b8acf9935529)
+![image](https://github.com/user-attachments/assets/1e6eb507-e81c-4055-acd9-9527bd4e40c3)
+
 
 
 Вывод запросов:
