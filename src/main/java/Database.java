@@ -155,6 +155,8 @@ public class Database {
                 from Sales
                 Where Sales.region = ? OR Sales.region = ?  OR Sales.region = ?
                 AND Sales.totalProfit BETWEEN 420000.0 AND 440000.0
+                Order by Sales.totalProfit desc
+                Limit 1
                 """;
 
         try ( PreparedStatement statement = connection.prepareStatement(query);){

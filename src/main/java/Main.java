@@ -10,9 +10,9 @@ public class Main {
         Map<String, Integer> map = db.getSoldItemsCount();
 
     //Вывод информации по заданиям с поиском страны
-//      Info info = new Info(db);
-//      info.printCountryWithHighestProfit();
-//      info.printCountryWithHighestProfitInRange();
+      Info info = new Info(db);
+      info.printCountryWithHighestProfit();
+      info.printCountryWithHighestProfitInRange();
 
         //Вывод диаграммы
 //        Diagramm diag = new Diagramm(db, map);
