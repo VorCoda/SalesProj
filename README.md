@@ -21,7 +21,7 @@
 В Main инициализируем БД , выводим результаты запросов и выводим диаграмму
 
 Диаграмма
-![image](https://github.com/user-attachments/assets/949ce919-ffb1-434c-8a79-efd3548e3ac1)
+![img_1.png](img_1.png)
 
 Запрос к зад. 2
 ![image](https://github.com/user-attachments/assets/9bca5b52-3894-4431-a021-478a27bf1b01)
